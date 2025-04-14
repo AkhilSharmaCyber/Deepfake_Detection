@@ -26,10 +26,16 @@ Technologies Used
 
 How It Works
 ------------
-1. Input: Upload an image or video suspected of being manipulated.
-2. Processing: The model preprocesses the media and runs inference using a trained CNN.
-3. Detection: Outputs a confidence score and classification (Real or Deepfake).
-4. Results: Displays visual indicators and analytics for the uploaded content.
+1. 📤 **Upload Media**: Users upload an image or video suspected to be manipulated.
+
+2. 🧠 **Preprocessing**: The media is processed using OpenCV to extract frames (for videos) and normalize inputs.
+
+3. 🧮 **Prediction**: The trained CNN model analyzes the media and outputs a classification — Real or Deepfake — along with a confidence score.
+
+4. 📊 **Visualization**: Results are visualized with plots and metrics for better understanding.
+
+5. 🌐 **Interface**: A user-friendly web application (built with Flask or Streamlit) allows for seamless interaction and analysis.
+
 
 Project Structure
 -----------------
