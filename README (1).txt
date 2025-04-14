@@ -64,8 +64,8 @@ Future Improvements
 
 Author
 ------
-[Your Name] – Cybersecurity & AI Enthusiast
-Feel free to connect on LinkedIn (https://linkedin.com/in/yourprofile) | Portfolio (https://yourportfolio.com)
+Akhil Sharma – Cybersecurity & AI Enthusiast
+Feel free to connect on LinkedIn
 
 License
 -------
