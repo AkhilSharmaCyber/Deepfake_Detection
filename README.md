@@ -33,8 +33,8 @@ How It Works
 
 Project Structure
 -----------------
-deepfake-detection/
-│
+deepfake-detection
+
 ├── model/               --> Trained models and training scripts  
 ├── webapp/              --> Flask or Streamlit-based web frontend  
 ├── utils/               --> Preprocessing scripts and helper functions  
