@@ -68,6 +68,10 @@ Future Improvements
 - Improve detection on low-resolution content
 - Expand to audio and text-based deepfakes
 
+Proof Of Concept(Video)
+----------------
+https://drive.google.com/file/d/1OGx9ESWeZ1VQ6uOUtpiqVhov1Gtq7otk/view?usp=sharing
+
 Author
 ------
 Akhil Sharma – Cybersecurity & AI Enthusiast
