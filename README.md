@@ -60,7 +60,7 @@ Installation
 
 Results
 -------
-- ✅ Achieved model accuracy of over 90%
+- ✅ Achieved model accuracy of over 50%
 - ⚠️ Reduced misinformation risk by 50%
 - 🚀 Improved user experience with 50% more seamless detection compared to traditional tools
 
