@@ -45,7 +45,7 @@ deepfake-detection
 
 Installation
 ------------
-git clone https://github.com/yourusername/deepfake-detection.git
+git clone https://github.com/AkhilSharmaCyber/Deepfake-Detection.git
 cd deepfake-detection
 pip install -r requirements.txt
 python webapp/app.py
