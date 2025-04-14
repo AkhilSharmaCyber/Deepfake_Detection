@@ -58,7 +58,7 @@ python webapp/app.py
 
 Results
 -------
-- Model Accuracy: 90%+
+- Model Accuracy: 50%+
 - Misinformation Risk Reduction: 50%
 - User Experience Improvement: 50% more seamless detection compared to traditional tools
 
