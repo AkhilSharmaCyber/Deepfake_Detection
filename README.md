@@ -35,17 +35,12 @@ Project Structure
 -----------------
 deepfake-detection/
 │
-├── model/               # Contains trained models and training scripts
-│
-├── webapp/              # Web application frontend (Flask or Streamlit)
-│
-├── utils/               # Preprocessing scripts and helper utilities
-│
-├── test_data/           # Sample images and videos for testing the model
-│
-├── requirements.txt     # List of required Python dependencies
-│
-└── README.txt           # Project documentation and overview
+├── model/               --> Trained models and training scripts  
+├── webapp/              --> Flask or Streamlit-based web frontend  
+├── utils/               --> Preprocessing scripts and helper functions  
+├── test_data/           --> Sample images and videos for testing  
+├── requirements.txt     --> Python dependency list  
+└── README.md            --> Project documentation and overview  
 
 
 Installation
