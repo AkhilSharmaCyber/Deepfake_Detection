@@ -78,5 +78,4 @@ Watch the demo here:
 Author
 ------
 👤 Akhil Sharma – Cybersecurity & AI Enthusiast  
-👤 Ojas Gaur – AI Enthusiast 
 📎 Connect on LinkedIn: https://linkedin.com/in/akhilsharma91328243
